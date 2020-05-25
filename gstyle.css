@@ -1,0 +1,206 @@
+html, body {  
+    margin: 0;
+    padding: 0;
+    zoom: 1;
+    display: block;
+       
+}
+
+img {
+    max-width: 100%;
+}
+
+div {
+    display: block;
+}
+
+.logo {
+    text-align: center;
+    margin-bottom: 400px;
+}
+
+#logotext {
+    font-size: 75px;
+    font-weight: 700;
+    font-family: 'Abril Fatface';
+    letter-spacing: 5px;
+    margin-top: -35px;
+    margin-bottom: 300px;
+    color: #0F95C8;
+}
+
+.namelight {
+    color: orange;
+}
+
+#logosubtext {
+    margin-top: -310px;   
+    margin-right: 25px;
+    font-family: 'Vollkorn';
+    color: #0F95C8;
+    font-weight: 600;
+    letter-spacing: 3px;
+
+}
+
+#mainlogo {
+    width: 368px;
+    height: 298px;
+    padding-top: 200px;
+}
+
+#ponyobg {
+    background:url("PNG/ponyo.png") no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 784px;
+    margin-bottom: -25px;
+    
+}
+
+.PonyoLog {
+    margin: 100px 200px 0px 0px;
+    float: right;
+     
+}
+
+.PonyoP {
+    width: 500px;
+    height: 124px;
+    float: right;
+    margin: 10px 120px 0px 800px;
+    text-align: justify;
+    font-family: 'Muli';
+    font-size: 18px;
+    font-weight: 600;
+    color: #FCCB4B;
+      
+}
+
+
+#totorobg {
+    background:url("PNG/Totoro.png") no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 784px;
+    margin-bottom: -25px;
+    
+}
+
+.totorolog {
+    margin: 150px 0px 0 100px; 
+    float: left;
+}
+
+.Toto {
+    width: 500px;
+    height: 124px;
+    float: left;
+    text-align: justify;
+    margin: 10px 750px 0px 100px;
+    font-family: 'Fanwood Text';
+    font-size: 20px;
+    color: #FFBCCC;
+}
+
+#kikibg {
+    background:url("PNG/KikisDeliveryService.png") no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 784px;
+    margin-bottom: -25px;
+    
+}
+
+.kikilog {
+    margin: 175px 400px 0px 0px;
+    float: right;
+}
+
+.kikipara {
+    width: 500px;
+    height: 124px;
+    float: right;
+    margin: 10px 250px 0px 1000px;
+    text-align: justify;
+    font-family: 'Vollkorn';
+    font-size: 18px;
+    color: rgb(243, 243, 243);
+}
+
+#howlbg {
+    background:url("PNG/HowlsCastle.png") no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 784px;
+    margin-bottom: -25px;
+   
+}
+
+.Howllog {
+    margin: 200px 0px 0 100px; 
+    float: left;
+}
+
+.howlpara {
+    width: 700px;
+    height: 124px;
+    float: left;
+    text-align: justify;
+    margin: 10px 750px 0px 100px;
+    font-family: 'Exo 2';
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(42, 66, 110);
+}
+
+#spiritedbg {
+    background:url("PNG/SpiritedAway.png") no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 784px;
+    margin-bottom: -25px;
+  
+}
+
+.spiritedlog {
+    margin: 250px 150px 0px 0px;
+    float: right;
+    
+}
+
+.spiritedpara {
+    width: 600px;
+    height: 124px;
+    float: right;
+    margin: 10px 150px 0px 500px;
+    text-align: justify;
+    font-family: 'Playfair Display';
+    font-size: 18px;
+    color: #559E7C;
+}
+
+#monobg {
+    background:url("PNG/PrincessMononoke.png") no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 784px;
+    margin-bottom: -25px;
+    
+}
+
+.monolog {
+    margin: 225px 0px 0 100px; 
+    float: left;
+}
+
+.monopara {
+    width: 700px;
+    height: 124px;
+    float: left;
+    text-align: justify;
+    margin: 10px 750px 0px 100px;
+    font-family: 'Old Standard TT';
+    font-size: 18px;
+    color: #B23543;
+}
